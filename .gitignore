@@ -1,0 +1,18 @@
+# ----- Python byte-code -----
+__pycache__/
+*.py[cod]
+
+# ----- Virtual environments -----
+.venv/
+venv/
+env/
+
+# ----- IDE / editor configs -----
+.vscode/
+.idea/
+
+# ----- Local secrets & runtime data -----
+.env
+*.log
+botdata.pkl
+*.pkl
